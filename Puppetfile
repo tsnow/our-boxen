@@ -55,3 +55,33 @@ github "xquartz",    "1.1.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+
+#github 'postgresapp'
+github 'adium'	     
+github 'charles'     
+github 'chrome'	     
+github 'colloquy'    
+github 'dropbox'     
+github 'emacs'	     
+github 'evernote'    
+github 'foreman'     
+github 'gitx'	     
+github 'go'	     
+github 'googledrive' 
+github 'heroku'	     
+github 'hipchat'     
+github 'kindle'	     
+github 'macvim'	     
+github 'onepassword'
+github 'python' # for pip, for deis 
+github 'screenhero'  
+github 'sequel_pro'  
+github 'skitch'      
+github 'skype'	     
+github 'spotify'     
+github 'steam'	     
+github 'tmux'	     
+github 'transmit'    
+github 'vagrant'     
+github 'virtualbox'  
+github 'vlc'
