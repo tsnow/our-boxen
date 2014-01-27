@@ -6,6 +6,9 @@ include virtualbox
 include transmit    
 include skype	     
 include adium	     
+# include hg
+# make /opt/boxen/env.d/hg.sh with
+#   export PYTHONPATH=/opt/boxen/homebrew/lib/python2.7/site-packages:$PYTHONPATH
 include hipchat     
 # include onepassword #via app store
 include dropbox     
