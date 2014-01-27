@@ -10,9 +10,6 @@ include hipchat
 # include onepassword #via app store
 include dropbox     
 include heroku	     
-include go	     
-go::version { '1.1.1': }
-
 include chrome	     
 include foreman     
 include sequel_pro  
