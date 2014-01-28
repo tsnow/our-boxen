@@ -27,7 +27,7 @@ include evernote
 include gitx	     
 include googledrive 
 include kindle	     
-# include  postgresapp
+include  postgresapp
 include skitch      
 include python 
 
